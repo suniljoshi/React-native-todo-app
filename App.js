@@ -71,18 +71,6 @@ export default class App extends React.Component {
     this.setState({  tasks:updateTasks, text:'', isHideUpdate: false});
   }
 
-  listitem(status) {
-    if(status == 'active') {
-     return {
-          marginLeft: '5%', marginTop:10, width :"90%", backgroundColor: '#E1E1E1', flexDirection: 'row',
-     }
-    } else {
-      return {
-        marginLeft: '5%', marginTop:10, width :"90%", backgroundColor: 'green', flexDirection: 'row',
-      }
-    }
-   }
-
   render() {
     return (
       
@@ -110,8 +98,8 @@ export default class App extends React.Component {
        onPress={this.cancelUpdate.bind(this)}
        underlayColor='#fff'>
        <Text style={styles.addbtn}>Cancel</Text>
-</TouchableOpacity>
-</View>
+      </TouchableOpacity>
+      </View>
       }        
         <FlatList 
           data = {this.state.tasks}
