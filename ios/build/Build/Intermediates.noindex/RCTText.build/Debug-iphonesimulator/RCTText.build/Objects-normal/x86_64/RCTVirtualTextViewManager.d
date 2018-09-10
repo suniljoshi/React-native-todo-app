@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.m \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextViewManager.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/harishpadidar/Desktop/Reactnative/Todo/node_modules/react-native/Libraries/Text/RCTTextAttributes.h
